@@ -21,8 +21,10 @@ body {
 
 .home {
     background-color: #ff9f43;
+    margin-left: auto;
 }
 
 .login {
     background-color: #f368e0;
+    margin-left: unset;
 }
