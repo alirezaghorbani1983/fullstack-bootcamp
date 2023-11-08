@@ -5,6 +5,7 @@ body {
 .container {
     background-color: #8395a7;
     border: 4px solid #222f3e;
+    height: 400px;
 }
 
 .container>div {
